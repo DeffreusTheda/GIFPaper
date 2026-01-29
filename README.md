@@ -2,10 +2,10 @@
 
 Set GIFs as wallpapers on MAC OS
 
->edited by .effie
->now, the wallpapers applies to all Desktops instead of only one
->i also reverse engineered the source code! :D
->thanks for using, and have a good wallpaper :>
+>edited by .effie  
+>now, the wallpapers applies to all Desktops instead of only one  
+>i also reverse engineered the source code! :D  
+>thanks for using, and have a good wallpaper :>  
 
 ## Usage
 
